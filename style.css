@@ -95,6 +95,7 @@ body {
     margin: auto;
     background:#000;
     -webkit-transform-origin: bottom;
+    transform-origin: bottom;
     background: #ff4136;
 }
 
@@ -109,6 +110,7 @@ body {
     margin: auto;
     background: #000;
     -webkit-transform-origin: bottom;
+    transform-origin: bottom;
 }
 
 #hours {
@@ -122,4 +124,5 @@ body {
     margin: auto;
     background: #000;
     -webkit-transform-origin:bottom;
+    transform-origin: bottom;
 }
